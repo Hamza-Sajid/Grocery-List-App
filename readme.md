@@ -37,7 +37,7 @@ OR
 - open index.html in your browser.
 
 ## Repo Link:
-https://github.com/rafatfatima-qa/Grocery-List-App
+https://github.com/Hamza-Sajid/Grocery-List-App
 
 ## Live Link:
-https://rafatfatima-qa.github.io/Grocery-List-App/
+https://hamza-sajid.github.io/Grocery-List-App/
